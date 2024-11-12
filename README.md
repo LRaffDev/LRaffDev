@@ -6,7 +6,7 @@
 </center>
 
 <h2>About me</h2>
-<center><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical' style='text-align: center;'></center>
+<center><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'></center>
 <p>sono un aspirante Web Developer con una solida base nello sviluppo frontend. Amo mettermi in gioco con sfide complesse e creare progetti innovativi</p>
 
 <center>
